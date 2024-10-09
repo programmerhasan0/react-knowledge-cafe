@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Mastering CSS Grid Layout in 2024",
+        "author": "Emily Clark",
+        "readTime": 6,
+        "coverImgUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+        "authorImgUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "dateOfPublish": "2024-01-15",
+        "hashTags": ["CSS", "Grid", "WebDevelopment", "ResponsiveDesign"]
+    },
+    {
+        "id": "2",
+        "title": "The Rise of No-Code Platforms",
+        "author": "Kevin Brown",
+        "readTime": 8,
+        "coverImgUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "authorImgUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+        "dateOfPublish": "2024-02-01",
+        "hashTags": ["NoCode", "Platforms", "Development", "Automation"]
+    },
+    {
+        "id": "3",
+        "title": "How to Improve Website Performance with Lazy Loading",
+        "author": "Laura Evans",
+        "readTime": 5,
+        "coverImgUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+        "authorImgUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+        "dateOfPublish": "2024-01-28",
+        "hashTags": ["Performance", "LazyLoading", "Optimization", "WebSpeed"]
+    },
+    {
+        "id": "4",
+        "title": "Exploring the New Features in HTML6",
+        "author": "David Wilson",
+        "readTime": 7,
+        "coverImgUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
+        "authorImgUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+        "dateOfPublish": "2024-03-05",
+        "hashTags": ["HTML6", "WebDevelopment", "NewFeatures", "Markup"]
+    },
+    {
+        "id": "5",
+        "title": "Web Security Best Practices in 2024",
+        "author": "Sophia Harris",
+        "readTime": 9,
+        "coverImgUrl": "https://images.unsplash.com/photo-1508341599899-e7d2805f006d",
+        "authorImgUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+        "dateOfPublish": "2024-02-20",
+        "hashTags": ["Security", "WebSecurity", "SSL", "API"]
+    }
+]
